@@ -1,2 +1,2 @@
-# Meu_Projeto_Curso_DNC
-Projeto final do curso DNC
+# Meu_Projeto
+Projeto final do curso
